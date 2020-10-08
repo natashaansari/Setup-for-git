@@ -35,6 +35,3 @@ Link - https://discord.com/
 Links to Original material (You do not need to review this material.)
 https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
 https://slides.com/dmweb/web-remote-orientation#/
-Key points from slides
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node, Express, PostgreSQL
